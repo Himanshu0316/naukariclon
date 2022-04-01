@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: ghostwhite;
+}
+#navbar{
+  height: 70px;
+  width: 100%;
+}
+#main{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main>div{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#ldata{
+    width: 40%;
+    height: 400px;
+}
+#log{
+    width: 30%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+.data{
+    width: 90%;
+    margin: auto;
+
+}
+.data>div{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: darkslateblue;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.data p{
+    margin-left: 10px;
+}
+#btn{
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 30px;
+    border: 1px solid dodgerblue;
+}
+#btn>a{
+    color: dodgerblue;
+    text-decoration: none;
+}
+#dataimgdiv{
+    display: flex;
+    justify-content: right;
+}
+#dataimgdiv>img{
+    width: 200px;
+    height: 120px;
+    
+}
+#log>div{
+    margin: auto;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    font-family: sans-serif;
+}
+label{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #445578;
+    margin-left: 10px;
+}
+
+input{
+    width: 90%;
+    height: 40px;
+    border: 1px solid #d3e1ea;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: #829bc2;
+    font-size: 16px;
+    font-weight: lighter;
+}
+#gbtn{
+    margin: auto;
+    width: 80%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  cursor: pointer;
+}
+#gbtn>img{
+    width: 20px;
+    height: 20px;
+    margin-left: -40px;
+}
+#gbtn>p{
+    margin-left: -70px;
+    color: #445578;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+#log>div>div>p{
+    color: dodgerblue;
+    padding: 10px;
+    text-align: center;
+}
+#log button{
+    width: 90%;
+    height: 30px;
+    margin: auto;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: dodgerblue;
+    cursor: pointer;
+    border: 0;
+}
