@@ -31,29 +31,29 @@ This is a simple project. You can open this project using the above deployed lin
 1. This is the Landing page of naukariclone
 
  
-![Zee5 home img]()
+![Naukari home img](https://user-images.githubusercontent.com/95962613/172611182-b67ea21a-ef78-4d82-8161-e21d942173ff.png)
 
-2.This is Movies page
+2.This is Sign-up 
 
-![Zee5Movies img]()
+![Naukari signup img](https://user-images.githubusercontent.com/95962613/172611193-6a8e3e9e-31e4-43b8-bb01-4d625abb5ee9.png)
 
 
  
 
-3.This is Sign-up and Sign IN Page
+3.This is Sign IN Page
 
  
- ![Login-Page]()
+ ![Login-Page](https://user-images.githubusercontent.com/95962613/172611196-8ced2a6b-4d7f-4844-921d-0362a2807710.png)
 
 
-4. This is the Video.
+4. This is the companys page.
 
  
-![Video Page Zee5]()
+![Company](https://user-images.githubusercontent.com/95962613/172611201-9a80a932-d88f-44a2-984c-e4cd0a3d9180.png)
 
 5.Search Page
  
-![SearchPage]()
+![Hiring](https://user-images.githubusercontent.com/95962613/172611198-07154dfd-8c7d-46e8-8b01-826b7288c885.png)
 
 
 drive link: https://drive.google.com/file/d/1W4fW5GinxQxNX9H0m6xWN1p2cP5Kv4wJ/view?usp=sharing
