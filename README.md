@@ -31,29 +31,32 @@ This is a simple project. You can open this project using the above deployed lin
 1. This is the Landing page of naukariclone
 
  
-![Naukari home img](https://user-images.githubusercontent.com/95962613/172611182-b67ea21a-ef78-4d82-8161-e21d942173ff.png)
+![Screenshot (631)](https://user-images.githubusercontent.com/95962613/172612191-364fe6bd-32fc-4dfc-aed8-7b7682f6589e.png)
+
 
 2.This is Sign-up 
 
-![Naukari signup img](https://user-images.githubusercontent.com/95962613/172611193-6a8e3e9e-31e4-43b8-bb01-4d625abb5ee9.png)
+![Screenshot (632)](https://user-images.githubusercontent.com/95962613/172612267-c662d2e4-9703-4cf8-8a31-ce44679c1ec9.png)
 
 
- 
 
 3.This is Sign IN Page
 
  
- ![Login-Page](https://user-images.githubusercontent.com/95962613/172611196-8ced2a6b-4d7f-4844-921d-0362a2807710.png)
+ ![Screenshot (633)](https://user-images.githubusercontent.com/95962613/172612317-c48d5692-fcf0-410a-ba3e-fa562448c2a2.png)
+
 
 
 4. This is the companys page.
 
  
-![Company](https://user-images.githubusercontent.com/95962613/172611201-9a80a932-d88f-44a2-984c-e4cd0a3d9180.png)
+![Screenshot (636)](https://user-images.githubusercontent.com/95962613/172612390-d4cf3214-3991-41ee-869b-6cfd4f901c88.png)
+
 
 5.Search Page
  
-![Hiring](https://user-images.githubusercontent.com/95962613/172611198-07154dfd-8c7d-46e8-8b01-826b7288c885.png)
+![Screenshot (635)](https://user-images.githubusercontent.com/95962613/172612433-3388cea6-89b9-4dfe-9a52-73e3103198a6.png)
+
 
 
 drive link: https://drive.google.com/file/d/1W4fW5GinxQxNX9H0m6xWN1p2cP5Kv4wJ/view?usp=sharing
